@@ -64,8 +64,8 @@ This healthcare analytics solution provides hospital administrators and healthca
 - [x] 🔄 Monthly Trend Analysis: 3.5-year trend (Jul 2018 - Jan 2021) comparing Day Case/Inpatient vs Outpatient volumes
 - [x] 📊 Wait List Analysis: Time Band vs Age Profile matrix with color-coded severity
 - [x] 🏆 Top 5 Specialties by Wait List:
-- [x]- [x] Otolaryngology (ENT) - 159
-#### Paed Orthopaedic - 264
-#### Paediatric Dermatology - 233
-#### Paediatric ENT - 272
-#### Paediatric Surgery - 163
+- [x] Otolaryngology (ENT) - 159
+- [x] Paed Orthopaedic - 264
+- [x] Paediatric Dermatology - 233
+- [x] Paediatric ENT - 272
+- [x] Paediatric Surgery - 163
