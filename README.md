@@ -1,4 +1,4 @@
-# Power-BI-Healthcare-Analytics
+# Power-BI-Healthcare-Analytics 
 
 <img width="978" height="894" alt="Healthcare Analytics Pic" src="https://github.com/user-attachments/assets/d76485ce-7057-4147-b63e-fd67f045de55" />
 
