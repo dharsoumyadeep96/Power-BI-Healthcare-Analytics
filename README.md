@@ -42,9 +42,16 @@ This healthcare analytics solution provides hospital administrators and healthca
 
 
 ###  📊 Dashboard Features
+
+#### Home Page
+
+![Home Page](https://github.com/user-attachments/assets/da31260d-2acb-479e-a4ce-0b12f7a6a675)
+
+
 ####  Summary Page - Executive Overview
 
-<img width="966" height="544" alt="Summary Page" src="https://github.com/user-attachments/assets/6027520d-e2e7-42dd-ba0b-23bab3db63b7" />
+![Summary](https://github.com/user-attachments/assets/34ce28a8-c2a5-4804-ad98-fe8d47afa8bf)
+
 
 ####  Total Wait List Metrics
 
@@ -69,3 +76,111 @@ This healthcare analytics solution provides hospital administrators and healthca
 - [x] Paediatric Dermatology - 233
 - [x] Paediatric ENT - 272
 - [x] Paediatric Surgery - 163
+
+#### Key Indicators
+
+##### Average & Median Patient Wait List metrics
+##### Toggle between statistical views
+
+#### Detailed View - Drill-Down Analysis
+
+![Detailed View](https://github.com/user-attachments/assets/07321eb2-046d-4339-ada5-809b3b85ed82)
+
+#### Interactive Filters Panel
+
+- [x] 📅 Archive_Date: Date range slider (1/31/2018 - 3/31/2021)
+- [x] 🏷️ Case_Type: Multi-select dropdown
+- [x] 🏥 Specialty_Name: Comprehensive specialty filter
+- [x] 👥 Age_Profile: Age group segmentation
+- [x] ⏱️ Time_Bands: Wait time categorization
+
+#### Hierarchical Data Grid
+
+- [x]   Multi-level expansion: Archive_Date → Specialty → Age Profile → Time Bands
+- [x]  Real-time aggregations across dimensions
+
+#### Example breakdown for Anaesthetics specialty:
+- [x] Age 0-15: 18 patients across various time bands
+- [x] Age 16-64: 1,458 patients with detailed time segmentation
+- [x] Age 65+: 473 patients
+
+#### Column totals: Day Case, Inpatient, Outpatient, Grand Total
+
+#### Sample Data Insights
+
+##### Wednesday, January 31, 2018: 582,686 total patients
+
+- [x] Day Case: 57,267
+- [x] Inpatient: 22,937
+- [x] Outpatient: 502,482
+
+### 🎯 Key Performance Indicators (KPIs)
+
+#### Volume Metrics
+- [x] Total patient count by case type
+- [x] Specialty-wise patient distribution
+- [x] Age profile segmentation
+
+#### Wait Time Analysis
+- [x] Time band distribution
+- [x] Average vs Median wait times
+- [x] Trend analysis over 3.5 years
+
+
+#### Operational Efficiency
+
+- [x] Case type bifurcation percentages
+- [x] Month-over-month growth trends
+- [x] Specialty performance benchmarking
+
+#### Strategic Insights
+
+- [x] High-demand specialties identification
+- [x] Patient demographic patterns
+- [x] Resource allocation opportunities
+
+### 💡 Business Value
+
+- [x] Operational Excellence: Identify bottlenecks in patient flow
+- [x] Resource Optimization: Allocate staff and facilities based on demand patterns
+- [x] Patient Experience: Reduce wait times through data-driven interventions
+- [x] Strategic Planning: Forecast capacity needs and specialty requirements
+- [x] Compliance: Monitor and report on healthcare service delivery standards
+
+### 🎨 Design Highlights
+
+- [x] Modern dark theme with purple/pink accent colors
+- [x] Intuitive navigation between Summary and Detailed views
+- [x] Interactive visualizations (donut charts, stacked bars, area charts, heat maps)
+- [x] Professional healthcare-focused aesthetics
+- [x] Responsive layout optimized for executive presentations
+- [x] Adopted a color palette for consistency throughout the dashboard (https://coolors.co/palette/139a43-66d17f-0dab76-d19c1d-fe5f55)
+
+
+### 📈 Data Coverage
+- [x] Timeline: January 2018 - March 2021 (39+ months)
+- [x] Total Records: 24.6+ million patient interactions
+- [x] Specialties Tracked: 15+ medical specialties
+- [x] Age Segments: 4 distinct age profiles (0-15, 16-64, 65+)
+
+### 🚀 Use Cases
+
+- [x]  Hospital administration performance monitoring
+- [x]  Healthcare policy impact assessment
+- [x]  Capacity planning and forecasting
+- [x]  Wait list reduction initiatives
+- [x]  Specialty service expansion decisions
+- [x]  Patient satisfaction improvement programs
+
+### Presented by: Soumyadeep Dhar
+### Tool: Microsoft Power BI Desktop
+### Analysis Type: Descriptive, Diagnostic, and Predictive Analytics
+
+###  🔗 Connect & Collaborate
+- [x] Analyst: Soumyadeep Dhar
+- [x] 📧 Email: soumyadeepdhar433@gmail.com
+- [x] 💼 LinkedIn: www.linkedin.com/in/soumyadeep-dhar-785724333
+
+
+### 🌟 Star this repository if you found it helpful!
+- [x]  Keywords: data-analytics, business-intelligence, power bi-dashboard, Healthcare, kpi-analysis, data-visualization, Treatment ,Business-insights, Doctor,Patient
