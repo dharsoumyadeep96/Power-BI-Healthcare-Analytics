@@ -1,8 +1,13 @@
-# Power-BI-Healthcare-Analytics 
+# Power-BI-Healthcare-Analytics (Patient Wait List Analysis)
 
 <img width="978" height="894" alt="Healthcare Analytics Pic" src="https://github.com/user-attachments/assets/d76485ce-7057-4147-b63e-fd67f045de55" />
 
 An entire Power BI healthcare analytics solution for monitoring and evaluating patient data in various settings (day case, inpatient, and outpatient).
+
+
+### 🎥 Video Presentation
+
+https://youtu.be/_dhMRm-NsTM?si=5LA3xPYmAjLURbxu
 
 
 ### 🚀 Interative Dashboard
