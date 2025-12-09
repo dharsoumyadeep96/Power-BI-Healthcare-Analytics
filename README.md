@@ -10,7 +10,7 @@ An entire Power BI healthcare analytics solution for monitoring and evaluating p
 https://youtu.be/_dhMRm-NsTM?si=5LA3xPYmAjLURbxu
 
 
-### 🚀 Interative Dashboard
+### 🚀 Interactive Dashboard
 
 https://app.powerbi.com/view?r=eyJrIjoiYzM2ZWRlZGYtOTU5MS00ZTk0LWFiZDQtZDQ1ZGZmMjE3OWNjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
